@@ -1,8 +1,7 @@
 # PWM Timer
-## Bare metal STM32 PWM driver
-
-**Software used** Keil
-**Micro controller** STM32F103C8T6
+## Bare metal STM32 PWM driver  
+**Software used** Keil  
+**Micro controller** STM32F103C8T6  
 **Hardware Module** STM32 Bluepill
 
 
