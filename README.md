@@ -22,7 +22,7 @@ _ex : Timer_init(PB,9,4,1,50); Port PB, Pin - 9, Timer4, Freq1- 1Khz, 50 - 50% D
 `Timer2 - 2, Timer3 -3, Timer4 -4, Timer5 -5`  
 **Freq** Desried Frequency  
 Frequency should be in even numbers only.  
-_1- 1Khz  
+1- 1Khz  
 2- 2Khz  
 3- 3Khz... until 9- 9Khz,but  
 10 - 100hz  
